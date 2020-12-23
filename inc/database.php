@@ -11,7 +11,7 @@ class database {
         $this->conn = false;
         $this->host = 'localhost';
         $this->user = 'root';
-        $this->password = '';
+        $this->password = 'junior';
         $this->baseName = 'junior';
         $this->connect();
     }
